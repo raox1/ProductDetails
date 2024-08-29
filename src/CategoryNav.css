@@ -1,0 +1,23 @@
+.category-nav {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    gap: 20px;
+  }
+  
+  .category-button {
+    background: none;
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    color: #333;
+    padding: 10px 20px;
+    transition: color 0.3s;
+  }
+  
+  .category-button:hover,
+  .category-button.active {
+    color: #007BFF;
+    font-weight: bold;
+  }
+  

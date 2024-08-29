@@ -1,0 +1,26 @@
+.header {
+    background-image: url('https://images.yourstory.com/cs/4/211ccaf00e6d11e997fe8f165dce9bb1/Imageifxu-1596799036123-1601633425902.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    color: white;
+  }
+  
+  .header-content {
+    text-align: center;
+  }
+  
+  .logo {
+    width: 50px; /* Adjust size as needed */
+    margin-right: 10px;
+  }
+  
+  .title {
+    font-size: 2rem; /* Adjust size as needed */
+    font-family: 'Cursive'; /* Adjust font as needed */
+  }
+  
